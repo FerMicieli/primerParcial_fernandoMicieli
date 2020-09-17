@@ -1,0 +1,7 @@
+C:\Users\micie\source\repos\Parcial 19deSeptiembre\Parcial 19deSeptiembre\obj\Debug\Parcial 19deSeptiembre.csprojAssemblyReference.cache
+C:\Users\micie\source\repos\Parcial 19deSeptiembre\Parcial 19deSeptiembre\obj\Debug\Parcial 19deSeptiembre.csproj.CoreCompileInputs.cache
+C:\Users\micie\source\repos\Parcial 19deSeptiembre\Parcial 19deSeptiembre\bin\Debug\Parcial 19deSeptiembre.exe.config
+C:\Users\micie\source\repos\Parcial 19deSeptiembre\Parcial 19deSeptiembre\bin\Debug\Parcial 19deSeptiembre.exe
+C:\Users\micie\source\repos\Parcial 19deSeptiembre\Parcial 19deSeptiembre\bin\Debug\Parcial 19deSeptiembre.pdb
+C:\Users\micie\source\repos\Parcial 19deSeptiembre\Parcial 19deSeptiembre\obj\Debug\Parcial 19deSeptiembre.exe
+C:\Users\micie\source\repos\Parcial 19deSeptiembre\Parcial 19deSeptiembre\obj\Debug\Parcial 19deSeptiembre.pdb
